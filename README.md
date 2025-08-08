@@ -1,3 +1,3 @@
 # SnakeGame
 
-OpenCode SnakeGame + Setup
+Setup only
